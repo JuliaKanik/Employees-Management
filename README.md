@@ -12,9 +12,8 @@ The TechDB project is a web application that allows users to manage members of y
 
 ## Features
 - View a list of schools.
-- View members associated with a specific school.
-- Create, update, and delete members.
-- Assign members to schools.
+- View members associated with a specific school (to be added).
+- Create and delete members.
 
 ## Getting Started
 To get started with the TechDB project, follow these steps:
